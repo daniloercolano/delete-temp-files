@@ -1,5 +1,6 @@
 
 # Set Directory Path Var
+# Keep in mind to set the right drive here after
 $CrawlerTempDir="C:\CIPData\Temp\ESCrawler"
 
 # Load Objects
